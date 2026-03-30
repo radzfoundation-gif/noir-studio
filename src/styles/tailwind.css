@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Philos page light theme override */
+.philos-page {
+  background-color: #faf8f4 !important;
+  color: #2c1f10 !important;
+}
+
+.philos-page * {
+  box-sizing: border-box;
+}
